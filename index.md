@@ -1,17 +1,5 @@
 <h4> Presentations begin at 12pm and conclude at 1pm in Giannini Hall, room 201. </h4>
 
-## Fall 2016 schedule
-
-------------
-
-### 14 December 2016
-
-<img src = "https://d1taatozpbffx3.cloudfront.net/cdn/farfuture/UJxjjWzpqobYx7co0ouFsFHdIxGN1TKWFUTdKE-FaYQ/mtime:1450365425/sites/default/files/experts/matthew_zaragoza-watkins_287x377.jpg" width = "200" hspace = "20" alt = "Matthew">
-
-__Presenter:__ Matthew Zaragoza-Watkins
-<br>__Title:__ Strategic Response to Environmental Regulation: Theory, and Evidence from the U.S. Freight Truck Industry
-<br>__Abstract:__ Vintage-differentiated emission standards are widely used to regulate pollution from mobile and stationary sources. When a new standard is expected to increase the price of a new piece of equipment, forward-looking agents may choose to shift purchases ahead of policy implementation, which impacts the policy’s effectiveness and potentially biases analysts attempts to evaluate the impact of the program. To explore this, we develop a model of capital turnover, which predicts how forward-looking firms respond to costly regulation, and the impact of anticipation on the existing capital stock. We find the impact of anticipation depends primarily on the relative emissions rates of new, used and future pieces of capital, as well as the relationship between new-capital purchases and used-capital retirements. If sufficiently many pieces of higher-emitting, used capital are retired early, anticipation can provide net benefits. We test the predictions of our model empirically using a data set of monthly U.S. sales of new freight trucks around the time of EPA’s 2007 implementation of heavy-duty vehicle criteria pollution standards. Consistent with our predictions, we find evidence of a sales spike in the months before the policy took effect, and a sales slump after implementation. We show that prior estimates in the literature, which do not account for the effect of anticipation, significantly overstate the impact of the policy on sales. More broadly, our findings have important implications for regulatory impact analysis of markets in which agents can shift the timing of purchases in anticipation of new regulation.
-
 ## Spring 2017 schedule
 
 ------------
@@ -55,6 +43,16 @@ __Presenter:__ Tamma Carleton
 ## Past presentations
 
 ------------
+
+## Fall 2016 schedule
+
+### 14 December 2016
+
+<img src = "https://d1taatozpbffx3.cloudfront.net/cdn/farfuture/UJxjjWzpqobYx7co0ouFsFHdIxGN1TKWFUTdKE-FaYQ/mtime:1450365425/sites/default/files/experts/matthew_zaragoza-watkins_287x377.jpg" width = "200" hspace = "20" alt = "Matthew">
+
+__Presenter:__ Matthew Zaragoza-Watkins
+<br>__Title:__ Strategic Response to Environmental Regulation: Theory, and Evidence from the U.S. Freight Truck Industry
+<br>__Abstract:__ Vintage-differentiated emission standards are widely used to regulate pollution from mobile and stationary sources. When a new standard is expected to increase the price of a new piece of equipment, forward-looking agents may choose to shift purchases ahead of policy implementation, which impacts the policy’s effectiveness and potentially biases analysts attempts to evaluate the impact of the program. To explore this, we develop a model of capital turnover, which predicts how forward-looking firms respond to costly regulation, and the impact of anticipation on the existing capital stock. We find the impact of anticipation depends primarily on the relative emissions rates of new, used and future pieces of capital, as well as the relationship between new-capital purchases and used-capital retirements. If sufficiently many pieces of higher-emitting, used capital are retired early, anticipation can provide net benefits. We test the predictions of our model empirically using a data set of monthly U.S. sales of new freight trucks around the time of EPA’s 2007 implementation of heavy-duty vehicle criteria pollution standards. Consistent with our predictions, we find evidence of a sales spike in the months before the policy took effect, and a sales slump after implementation. We show that prior estimates in the literature, which do not account for the effect of anticipation, significantly overstate the impact of the policy on sales. More broadly, our findings have important implications for regulatory impact analysis of markets in which agents can shift the timing of purchases in anticipation of new regulation.
 
 ### 30 November 2016
 
