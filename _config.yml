@@ -1,0 +1,8 @@
+title: Berkeley Enviro., Energy, and Resource Economics Seminar
+description: Student presentation schedule
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
