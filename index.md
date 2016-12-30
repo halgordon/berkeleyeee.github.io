@@ -10,7 +10,7 @@ __Presenters:__ Dina Gorenshteyn and Ellen Lin
 
 ### 25 January 2017
 
-__Presenter:__ Gavin McCormick
+__Presenter:__ TBA
 
 ### 01 February 2017
 
@@ -18,7 +18,7 @@ __Presenters:__ Jon Proctor and Dave McLaughlin
 
 ### 08 February 2017
 
-__Presenters:__ Susanna Berkouwer and Ken Lee
+__Presenters:__ TBA
 
 ### 22 February 2017
 
@@ -39,6 +39,10 @@ __Presenter:__ Deirdre Sutula
 ### 26 April 2017
 
 __Presenter:__ Tamma Carleton
+
+### 10 May 2017
+
+__Presenters:__ Susanna Berkouwer and Ken Lee
 
 ## Past presentations
 
