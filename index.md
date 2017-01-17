@@ -1,4 +1,4 @@
-<h4> Presentations begin at 12pm and conclude at 1pm in Giannini Hall, room 201. </h4>
+<h4> Presentations begin at 12pm and conclude at 1:10pm in Giannini Hall, room 248. </h4>
 
 ## Spring 2017 schedule
 
@@ -6,7 +6,14 @@
 
 ### 18 January 2017
 
-__Presenters:__ Dina Gorenshteyn and Ellen Lin
+<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12915-1414091246.jpg" width = "200" hspace = "20" alt = "Dina">
+<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12944-1414091382.jpg" width = "200" hspace = "20" alt = "Ellen">
+
+__Presenter:__ Dina Gorenshteyn
+<br> __Title:__ How Important are Clear Notifications and Cost Salience in Capturing Attention? What is the Value of Attention? Evidence from the SFPUC Leak Detection Program
+
+__Presenter:__ Ellen Lin
+<br> __Title:__ Environmental Regulations, Firm Performance, and Local Economies in China
 
 ### 25 January 2017
 
