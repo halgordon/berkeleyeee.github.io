@@ -7,7 +7,6 @@
 ### 01 February 2017
 
 <img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12900-1414091098.jpg?itok=aq1XMQou" width = "200" hspace = "20" alt = "Dave">
-
 <img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13539-1447108788.jpg?itok=o7ZvfArX" width = "200" hspace = "20" alt = "Jon">
 
 __Presenter:__ Dave McLaughlin
