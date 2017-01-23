@@ -4,24 +4,17 @@
 
 ------------
 
-### 18 January 2017
-
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12915-1414091246.jpg" width = "200" hspace = "20" alt = "Dina">
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12944-1414091382.jpg" width = "200" hspace = "20" alt = "Ellen">
-
-__Presenter:__ Dina Gorenshteyn
-<br> __Title:__ How Important are Clear Notifications and Cost Salience in Capturing Attention? What is the Value of Attention? Evidence from the SFPUC Leak Detection Program
-
-__Presenter:__ Ellen Lin
-<br> __Title:__ Environmental Regulations, Firm Performance, and Local Economies in China
-
-### 25 January 2017
-
-__Presenter:__ TBA
-
 ### 01 February 2017
 
-__Presenters:__ Jon Proctor and Dave McLaughlin
+<img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12900-1414091098.jpg?itok=aq1XMQou" width = "200" hspace = "20" alt = "Dave">
+
+<img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13539-1447108788.jpg?itok=o7ZvfArX" width = "200" hspace = "20" alt = "Jon">
+
+__Presenter:__ Dave McLaughlin
+<br> __Tile__: TBA
+
+__Presenter:__ Jon Proctor
+<br> __Tile__: TBA
 
 ### 08 February 2017
 
@@ -54,6 +47,20 @@ __Presenters:__ Susanna Berkouwer and Ken Lee
 ## Past presentations
 
 ------------
+
+## Spring 2017
+
+### 18 January 2017
+
+<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12915-1414091246.jpg" width = "200" hspace = "20" alt = "Dina">
+<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12944-1414091382.jpg" width = "200" hspace = "20" alt = "Ellen">
+
+__Presenter:__ Dina Gorenshteyn
+<br> __Title:__ How Important are Clear Notifications and Cost Salience in Capturing Attention? What is the Value of Attention? Evidence from the SFPUC Leak Detection Program
+
+__Presenter:__ Ellen Lin
+<br> __Title:__ Environmental Regulations, Firm Performance, and Local Economies in China
+
 
 ## Fall 2016 schedule
 
