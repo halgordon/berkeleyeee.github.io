@@ -10,7 +10,7 @@
 <img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13539-1447108788.jpg?itok=o7ZvfArX" width = "200" hspace = "20" alt = "Jon">
 
 __Presenter:__ Dave McLaughlin
-<br> __Title__: The Impact of Water Rights Curtailments on Junior Rights Holders in California's Central Valley"
+<br> __Title__: The Impact of Water Rights Curtailments on Junior Rights Holders in California's Central Valley
 <br> __Abstract:__ This paper constructs and analyzes a novel high-resolution dataset of cropping decisions near water rights diversion points in California from 2007-2015, and estimates the average treatment effect of a recent drought policy which sharply curtailed the water allocated to junior water rights holders in 2014 and 2015 on crop acreage for 20 different crops. The effect of supply curtailments on rights holders' crop acreages is obtained using a differences-in-differences identification strategy. This paper finds that junior rights holders reduced water-intensive crop acreage such as rice and tomatoes by 5% and 3%, respectively. This paper also finds suggestive evidence of junior rights holders increasing less water-intensive acreages of corn and fallow acreage by 6.7% and 1.8%, respectively.
 
 __Presenter:__ Jon Proctor
