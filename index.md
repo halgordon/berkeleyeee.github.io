@@ -17,10 +17,6 @@ __Presenter:__ Jon Proctor
 <br> __Title__: Estimating Global Agricultural Impacts of Geoengineering Using Volcanic Eruptions as Natural Experiments
 <br> __Abstract:__ Solar radiation management (SRM) is increasingly considered a realistic, or even necessary, option for managing global temperatures, yet the economic impacts of ameliorating climatic changes by scattering sunlight back to space remain largely unknown. While SRM's temperature- and precipitation-mediated impacts on global crop yields have been studied, the insolation impacts of stratospheric sulfate aerosols (SSA) on global yields have never been empirically estimated. Since photosynthesis tends to decrease with reductions in total insolation and increase with the diffuse fraction, the net impact of scattering incoming light on agricultural yield is ambiguous. Here we use the volcanic eruptions that inspired modern SRM proposals as natural experiments to provide the first empirical estimates of 1) how El Chichon and Pinatubo's SSAs altered the quantity and quality of global insolation, 2) how those changes in insolation impacted global crop yields, and 3) the total effect that SSAs may have on yields in an SRM scenario when all climatic and insolation effects are jointly considered. We find that both the eruptions of El Chichon and Pinatubo altered the global radiation regime in ways unprecedented during our sample. Further, we find that the insolation-mediated impact of SSA on yields is negative for maize, soy, rice and wheat. This insolation effect is less negative for C3 crops than for C4 crops, as well as for aerosols that are more forward scattering. We find that in the G3 SRM scenario the total effect of SSA is essentially zero because its benefits from cooling are offset by similarly sized insolation-mediated damages. This suggests that SRM -- if deployed in a way similar to the volcanic eruptions it seeks to mimic -- would attenuate little the damages from climate change to global agriculture.
 
-### 08 February 2017
-
-__Presenters:__ TBA
-
 ### 22 February 2017
 
 __Presenter:__ Danamona Andrianarimanana
