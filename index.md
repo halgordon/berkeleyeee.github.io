@@ -9,8 +9,8 @@
 <img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12986-1414090986.jpg?itok=MqtQMGGL" width = "200" hspace = "20" alt = "Danamona">
 
 __Presenter:__ Danamona Andrianarimanana
-<br>__Title:__ TBA
-<br>__Abstract:__ TBA
+<br>__Title:__ Health and wealth effects of agricultural fires in Madagascar
+<br>__Abstract:__ Fire is regularly used in agriculture globally and especially in developing countries. Due to the traditional lack of fire data and because agricultural fires (fires used for agricultural practices such as clearing of grasslands and slash-and-burn practice) are motivated by expected gains in income and agricultural output, which are important predictors of health, there is a paucity of evidence regarding the net impact of fires on health. Using high-frequency and high-resolution fire and weather data from satellites, combined with monthly hospitalization data, I use wind variation on the day of fire to identify the pollution impacts of fires in Madagascar, where fire is extensively used to clear forests and pastures annually. Focusing my analysis on the impact of fires on birth outcomes and respiratory diseases, I find that increases in upwind fires lead to decreased birthweight and smaller birth cohort size as well as higher number of hospitalizations related to respiratory and eye infections. I find that these negative health effects persist over time and that effects are heterogeneous based on different levels of pollution exposure. On the other hand, consistent with the existence of a nutrition effect, I find that non-upwind fires predict better health.
 
 ### 08 March 2017
 
