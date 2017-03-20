@@ -4,10 +4,6 @@
 
 ------------
 
-### 22 March 2017
-
-__Presenter:__ Louis Preonas
-
 ### 12 April 2017
 
 __Presenter:__ Deirdre Sutula
