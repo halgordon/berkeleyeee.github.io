@@ -6,6 +6,8 @@
 
 ### 12 April 2017
 
+<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12678-1414091198.jpg?itok=0DtuWGg3" width = "200" hspace = "20" alt = "Deirdre">
+
 __Presenter:__ Deirdre Sutula
 
 ### 26 April 2017
