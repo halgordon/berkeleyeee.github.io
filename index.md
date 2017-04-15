@@ -9,8 +9,8 @@
 <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12663-1414093761.jpg?itok=TY6AQPmn" width = "200" hspace = "20" alt = "Tamma">
 
 __Presenter__: Tamma Carleton
-<br>__Title__: Forthcoming
-<br>__Abstract__: Forthcoming
+<br>__Title__: _Forthcoming_
+<br>__Abstract__: _Forthcoming_
 
 ### 10 May 2017
 
