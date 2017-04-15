@@ -16,7 +16,7 @@ __Presenter__: Tamma Carleton
 
 <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Susanna">
 
-__Presenters__: Susanna Berkouwer (join with Joshua Dean, MIT)
+__Presenters__: Susanna Berkouwer (joint with Joshua Dean, MIT)
 <br>__Title__: Behavioral biases in household energy spending: Experimental evidence from charcoal and firewood cookstoves
 <br>__Abstract__: We seek to understand how behavioral biases affect poor households' decision making regarding the consumption and usage of a durable good with a high-cost energy input. While there is a substantial literature about how behavioral anomalies and failures of rationality—including self-control problems, incorrect beliefs, limited attention and flawed decision heuristics—contribute to the energy efficiency gap in the US (see for example Gillingham and Palmer (2014) for a review), very few of these behavioral theories relating to durables purchasing and energy efficiency have been tested in a development setting. One might expect that since poorer consumers have more to lose from mistakes, they might be less susceptible to these biases. However, a large literature has looked at the psychology of decision-making among the poor, and finds that behavioral biases can be exacerbated by conditions associated with poverty such as increased stress, intra-househould bargaining, or cognitive load (see Haushofer and Fehr (2014) for a review of the leading theories). This project will attempt to bridge these two literatures by examining how behavioral biases affecting durable purchase and energy savings might be exacerbated or attenuated in a developing setting.
 
