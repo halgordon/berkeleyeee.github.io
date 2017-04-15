@@ -4,31 +4,35 @@
 
 ------------
 
-### 12 April 2017
-
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12678-1414091198.jpg?itok=0DtuWGg3" width = "200" hspace = "20" alt = "Deirdre">
-
-__Presenter__: Deirdre Sutula (joint with Rachel Baker)
-<br>__Title__: Estimating the cost of flooding: Evidence from a UK policy change
-<br>__Abstract__: Over the past decade, more than 900 people were killed and 3.8 million were affected by flooding in Europe. This number is expected to rise dramatically in the future as climate change increases the frequency and intensity of flooding in the region. The United Kingdom in particular faces damages from flooding and climate change, with the number of homes at high risk rising by an estimated 120-150% by 2050. Using a dataset of almost 20 million housing sales in the UK, combined with high resolution maps of flood risk and flood extent, we exploit policy variation in flood insurance provision to estimate the cost of living in flood-prone areas via hedonic regression. We find that a sudden change in access to flood-insurance increases housing prices by 13% in high flood-risk areas. Our results have implications for optimal design and implementation of national schemes for flood insurance.
-
 ### 26 April 2017
 
 <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12663-1414093761.jpg?itok=TY6AQPmn" width = "200" hspace = "20" alt = "Tamma">
 
 __Presenter__: Tamma Carleton
+<br>__Title__: Forthcoming
+<br>__Abstract__: Forthcoming
 
 ### 10 May 2017
 
 <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Susanna">
 
-__Presenters__: Susanna Berkouwer
+__Presenters__: Susanna Berkouwer (join with Joshua Dean, MIT)
+<br>__Title__: Behavioral biases in household energy spending: Experimental evidence from charcoal and firewood cookstoves
+<br>__Abstract__: We seek to understand how behavioral biases affect poor households' decision making regarding the consumption and usage of a durable good with a high-cost energy input. While there is a substantial literature about how behavioral anomalies and failures of rationality --including self-control problems, incorrect beliefs, limited attention and flawed decision heuristics--contribute to the energy efficiency gap in the US (see for example Gillingham and Palmer (2014) for a review), very few of these behavioral theories relating to durables purchasing and energy efficiency have been tested in a development setting. One might expect that since poorer consumers have more to lose from mistakes, they might be less susceptible to these biases. However, a large literature has looked at the psychology of decision-making among the poor, and finds that behavioral biases can be exacerbated by conditions associated with poverty such as increased stress, intra-househould bargaining, or cognitive load (see Haushofer and Fehr (2014) for a review of the leading theories). This project will attempt to bridge these two literatures by examining how behavioral biases affecting durable purchase and energy savings might be exacerbated or attenuated in a developing setting.
 
 ## Past presentations
 
 ------------
 
 ## Spring 2017
+
+### 12 April 2017
+
+<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12678-1414091198.jpg?itok=0DtuWGg3" width = "200" hspace = "20" alt = "Deirdre">
+
+__Presenter__: Deirdre Sutula (joint with Rachel Baker, Princeton)
+<br>__Title__: Estimating the cost of flooding: Evidence from a UK policy change
+<br>__Abstract__: Over the past decade, more than 900 people were killed and 3.8 million were affected by flooding in Europe. This number is expected to rise dramatically in the future as climate change increases the frequency and intensity of flooding in the region. The United Kingdom in particular faces damages from flooding and climate change, with the number of homes at high risk rising by an estimated 120-150% by 2050. Using a dataset of almost 20 million housing sales in the UK, combined with high resolution maps of flood risk and flood extent, we exploit policy variation in flood insurance provision to estimate the cost of living in flood-prone areas via hedonic regression. We find that a sudden change in access to flood-insurance increases housing prices by 13% in high flood-risk areas. Our results have implications for optimal design and implementation of national schemes for flood insurance.
 
 ### 22 February 2017
 
