@@ -9,8 +9,8 @@
 <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12663-1414093761.jpg?itok=TY6AQPmn" width = "200" hspace = "20" alt = "Tamma">
 
 __Presenter__: Tamma Carleton
-<br>__Title__: _Forthcoming_
-<br>__Abstract__: _Forthcoming_
+<br>__Title__: Distortions to agricultural markets and the use of global freshwater resources
+<br>__Abstract__: In the presence of production externalities, trade liberalization has an ambiguous effect on aggregate welfare, as gains from trade must be weighed against changes in the level of externalities. In this project, I identify the effect of barriers to trade on the use of an understudied and notoriously underpriced factor of production: freshwater. Using a globally-comprehensive, satellite-based measure of total water availability, I ask how policies shaping agricultural markets alter where and how much water is used in the production of staple crops. I find that policies insulating domestic markets from global prices have substantial influence over local water availability, particularly when policies involve water-intensive crops and particularly in the locations most suitable for those crops. I show that the effects of these political levers are comparable in magnitude to other hypothesized drivers of water loss, such as changes in the climate. I discuss plans for expanding these results to support estimates of the welfare effects of agricultural trade liberalization in the context of underpriced water use.
 
 ### 10 May 2017
 
