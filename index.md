@@ -1,16 +1,43 @@
 <h4> Presentations begin at 12pm and conclude at 1:10pm in Giannini Hall, room 248. </h4>
 
-## Spring 2017 schedule
+## Fall 2017 schedule
 
-------------
+### 13 September 2017
 
-### 10 May 2017
+<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12663-1414093761.jpg?itok=TY6AQPmn" width = "200" hspace = "20" alt = "Philipp">
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Susanna">
+__Presenter__: Tamma Carleton
+<br>__Title__: TBA
+<br>__Abstract__: TBA
 
-__Presenters__: Susanna Berkouwer (joint with Joshua Dean, MIT)
-<br>__Title__: Behavioral biases in household energy spending: Experimental evidence from charcoal and firewood cookstoves
-<br>__Abstract__: We seek to understand how behavioral biases affect poor households' decision making regarding the consumption and usage of a durable good with a high-cost energy input. While there is a substantial literature about how behavioral anomalies and failures of rationality—including self-control problems, incorrect beliefs, limited attention and flawed decision heuristics—contribute to the energy efficiency gap in the US (see for example Gillingham and Palmer (2014) for a review), very few of these behavioral theories relating to durables purchasing and energy efficiency have been tested in a development setting. One might expect that since poorer consumers have more to lose from mistakes, they might be less susceptible to these biases. However, a large literature has looked at the psychology of decision-making among the poor, and finds that behavioral biases can be exacerbated by conditions associated with poverty such as increased stress, intra-househould bargaining, or cognitive load (see Haushofer and Fehr (2014) for a review of the leading theories). This project will attempt to bridge these two literatures by examining how behavioral biases affecting durable purchase and energy savings might be exacerbated or attenuated in a developing setting.
+### 27 September 2017
+
+<img src = "http://www.zew.de/fileadmin/ZEW-Bilder-Portraits/pma.jpg" width = "200" hspace = "20" alt = "Philipp">
+
+__Presenter__: Philipp Massier
+<br>__Title__: TBA
+<br>__Abstract__: TBA
+
+### 25 October 2017
+
+<img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12986-1414090986.jpg?itok=MqtQMGGL" width = "200" hspace = "20" alt = "Danamona">
+
+__Presenter__: Danamona Andrianarimanana
+<br>__Title__: TBA
+<br>__Abstract__: TBA
+
+### 08 November 2017
+
+<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12706-1414091315.jpg" width = "200" hspace = "20" alt = "Ed">
+<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13025-1414093071.jpg" width = "200" hspace = "20" alt = "Matt">
+
+__Presenter__: Ed Rubin
+<br>__Title__: TBA
+<br>__Abstract__: TBA
+
+__Presenter__: Matt Woerman
+<br>__Title__: TBA
+<br>__Abstract__: TBA
 
 ## Past presentations
 
@@ -18,9 +45,17 @@ __Presenters__: Susanna Berkouwer (joint with Joshua Dean, MIT)
 
 ## Spring 2017
 
+### 10 May 2017
+
+<!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12930-1414093706.jpg?itok=KdEL1Xr2" width = "200" hspace = "20" alt = "Susanna"> -->
+
+__Presenters__: Susanna Berkouwer (joint with Joshua Dean, MIT)
+<br>__Title__: Behavioral biases in household energy spending: Experimental evidence from charcoal and firewood cookstoves
+<br>__Abstract__: We seek to understand how behavioral biases affect poor households' decision making regarding the consumption and usage of a durable good with a high-cost energy input. While there is a substantial literature about how behavioral anomalies and failures of rationality—including self-control problems, incorrect beliefs, limited attention and flawed decision heuristics—contribute to the energy efficiency gap in the US (see for example Gillingham and Palmer (2014) for a review), very few of these behavioral theories relating to durables purchasing and energy efficiency have been tested in a development setting. One might expect that since poorer consumers have more to lose from mistakes, they might be less susceptible to these biases. However, a large literature has looked at the psychology of decision-making among the poor, and finds that behavioral biases can be exacerbated by conditions associated with poverty such as increased stress, intra-househould bargaining, or cognitive load (see Haushofer and Fehr (2014) for a review of the leading theories). This project will attempt to bridge these two literatures by examining how behavioral biases affecting durable purchase and energy savings might be exacerbated or attenuated in a developing setting.
+
 ### 26 April 2017
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12663-1414093761.jpg?itok=TY6AQPmn" width = "200" hspace = "20" alt = "Tamma">
+<!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12663-1414093761.jpg?itok=TY6AQPmn" width = "200" hspace = "20" alt = "Tamma"> -->
 
 __Presenter__: Tamma Carleton
 <br>__Title__: Free water, free trade? Agricultural policy and the implicit global water market
@@ -28,7 +63,7 @@ __Presenter__: Tamma Carleton
 
 ### 12 April 2017
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12678-1414091198.jpg?itok=0DtuWGg3" width = "200" hspace = "20" alt = "Deirdre">
+<!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12678-1414091198.jpg?itok=0DtuWGg3" width = "200" hspace = "20" alt = "Deirdre"> -->
 
 __Presenter__: Deirdre Sutula (joint with Rachel Baker, Princeton)
 <br>__Title__: Estimating the cost of flooding: Evidence from a UK policy change
@@ -36,7 +71,7 @@ __Presenter__: Deirdre Sutula (joint with Rachel Baker, Princeton)
 
 ### 22 February 2017
 
-<img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12986-1414090986.jpg?itok=MqtQMGGL" width = "200" hspace = "20" alt = "Danamona">
+<!-- <img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12986-1414090986.jpg?itok=MqtQMGGL" width = "200" hspace = "20" alt = "Danamona"> -->
 
 __Presenter__: Danamona Andrianarimanana
 <br>__Title__: Health and wealth effects of agricultural fires in Madagascar
@@ -44,8 +79,8 @@ __Presenter__: Danamona Andrianarimanana
 
 ### 01 February 2017
 
-<img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12900-1414091098.jpg?itok=aq1XMQou" width = "200" hspace = "20" alt = "Dave">
-<img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13539-1447108788.jpg?itok=o7ZvfArX" width = "200" hspace = "20" alt = "Jon">
+<!-- <img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12900-1414091098.jpg?itok=aq1XMQou" width = "200" hspace = "20" alt = "Dave"> -->
+<!-- <img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13539-1447108788.jpg?itok=o7ZvfArX" width = "200" hspace = "20" alt = "Jon"> -->
 
 __Presenter__: Dave McLaughlin
 <br> __Title__: The Impact of Water Rights Curtailments on Junior Rights Holders in California's Central Valley
@@ -57,8 +92,8 @@ __Presenter__: Jon Proctor
 
 ### 18 January 2017
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12915-1414091246.jpg" width = "200" hspace = "20" alt = "Dina">
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12944-1414091382.jpg" width = "200" hspace = "20" alt = "Ellen">
+<!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12915-1414091246.jpg" width = "200" hspace = "20" alt = "Dina"> -->
+<!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12944-1414091382.jpg" width = "200" hspace = "20" alt = "Ellen"> -->
 
 __Presenter__: Dina Gorenshteyn
 <br> __Title__: How Important are Clear Notifications and Cost Salience in Capturing Attention? What is the Value of Attention? Evidence from the SFPUC Leak Detection Program
@@ -71,7 +106,7 @@ __Presenter__: Ellen Lin
 
 ### 14 December 2016
 
-<img src = "https://d1taatozpbffx3.cloudfront.net/cdn/farfuture/UJxjjWzpqobYx7co0ouFsFHdIxGN1TKWFUTdKE-FaYQ/mtime:1450365425/sites/default/files/experts/matthew_zaragoza-watkins_287x377.jpg" width = "200" hspace = "20" alt = "Matthew">
+<!-- <img src = "https://d1taatozpbffx3.cloudfront.net/cdn/farfuture/UJxjjWzpqobYx7co0ouFsFHdIxGN1TKWFUTdKE-FaYQ/mtime:1450365425/sites/default/files/experts/matthew_zaragoza-watkins_287x377.jpg" width = "200" hspace = "20" alt = "Matthew"> -->
 
 __Presenter__: Matthew Zaragoza-Watkins
 <br>__Title__: Strategic Response to Environmental Regulation: Theory, and Evidence from the U.S. Freight Truck Industry
@@ -79,7 +114,7 @@ __Presenter__: Matthew Zaragoza-Watkins
 
 ### 30 November 2016
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12706-1414091315.jpg" width = "200" hspace = "20" alt = "Ed">
+<!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12706-1414091315.jpg" width = "200" hspace = "20" alt = "Ed"> -->
 
 __Presenter__: Ed Rubin
 <br>__Title__: Natural gas elasticities, seasonal heterogeneity, and consumer behavior: Evidence from 300M+ bills
@@ -87,7 +122,7 @@ __Presenter__: Ed Rubin
 
 ### 09 November 2016
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13002-1444171251.jpg" width = "200" hspace = "20" alt = "James">
+<!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13002-1444171251.jpg" width = "200" hspace = "20" alt = "James"> -->
 
 __Presenter__: James Gillan
 <br>__Title__: More Power Plants or Smarter Homes? The Economics of Achieving More Flexible Electricity Demand
@@ -96,7 +131,7 @@ __Presenter__: James Gillan
 
 ### 26 October 2016
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13008-1414091922.jpg" width = "200" hspace = "20" alt = "Jon">
+<!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13008-1414091922.jpg" width = "200" hspace = "20" alt = "Jon"> -->
 
 __Presenter__: Jon Kadish
 <br>__Title__: Transportation Costs and the Spatial Structure of Cities
@@ -104,7 +139,7 @@ __Presenter__: Jon Kadish
 
 ### 12 October 2016
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12991-1414092746.jpg" width = "200" hspace = "20" alt = "Kenny">
+<!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12991-1414092746.jpg" width = "200" hspace = "20" alt = "Kenny"> -->
 
 __Presenter__: Kenny Bell
 <br>__Title__: Empirical estimation of the impact of climate change on livestock industries: The case of dairy
@@ -112,7 +147,7 @@ __Presenter__: Kenny Bell
 
 ### 28 September 2016
 
- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13025-1414093071.jpg" width = "200" hspace = "20" alt = "Matt">
+ <!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13025-1414093071.jpg" width = "200" hspace = "20" alt = "Matt"> -->
 
 __Presenter__: Matt Woerman
 <br>__Title__: Strategic bidding and transmission congestion: Evidence from the Texas electricity market
@@ -120,7 +155,7 @@ __Presenter__: Matt Woerman
 
 ### 14 September 2016
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13024-1438756749.jpg" width = "200" hspace = "20" alt = "Fiona">
+<!-- <img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13024-1438756749.jpg" width = "200" hspace = "20" alt = "Fiona"> -->
 
 __Presenter__: Fiona Burlig (joint with Louis Preonas and Matt Woerman)
 <br>__Title__: Panel Data and Experimental Design
