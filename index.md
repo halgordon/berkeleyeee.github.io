@@ -2,23 +2,15 @@
 
 ## Fall 2017 schedule
 
-### 27 September 2017
-
-<img src = "http://www.zew.de/fileadmin/ZEW-Bilder-Portraits/pma.jpg" width = "200" hspace = "20" alt = "Philipp">
-
-__Presenter__: Philipp Massier (with Benjamin J. Lutz and Kathrine von Graevenitz)
-<br>__Title__: Prices as Climate Policy: Assessing the Causal Effect of Electricity Prices on German Manufacturing Plants
-<br>__Abstract__: Climate policies often result in higher electricity prices through the internalization of external costs. We shed light on how plants in the German manufacturing sector react to such electricity price changes. Little is known about the causal impact of electricity prices on individual plant performance as electricity prices are typically endogenous. We match official production census data on the German manufacturing sector with data on individual electricity prices and grid charges for the first time. While the data is very detailed and contains a lot of spatial variation, assignment of an individual electricity tariff to a plant cannot be observed. However, the grid operator is observed through the plant's location. Thus, electricity demand elasticities are identified based on panel IV regressions using the arguably exogenous regulated grid charges as an instrument to correct for potential measurement error and endogeneity in electricity prices. Grid charges in Germany are not based on congestion pricing like in some US electricity markets. They are determined based on incentive regulation of the grid operator.
- 
-Our main estimates show an electricity own price elasticity of -1.5. With the help of subsample analyses we can show that there is heterogeneity in the different manufacturing industries. Further, we find no contemporaneous effects on investments, revenues or employment. There is some suggestive evidence that plants respond to rising electricity prices by increasing their own electricity generation. By doing so, they can avoid many of the levies charged in Germany, e.g. the renewable energy surcharge or grid charges. These charges are mainly motivated in covering the costs of the renewable energy expansion and grid operations. However, to the extent that these charges are also intended to induce energy efficiency such avoidance behavior is detrimental to the efficacy of the regulation.
-
 ### 25 October 2017
 
 <img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12986-1414090986.jpg?itok=MqtQMGGL" width = "200" hspace = "20" alt = "Danamona">
 
 __Presenter__: Danamona Andrianarimanana
-<br>__Title__: TBA
-<br>__Abstract__: TBA
+<br>__Title__: Evaluating the tradeoff between the health and wealth effects of agricultural fires in Madagascar
+<br>__Abstract__: 
+ Fire is regularly used in agriculture globally and especially in developing countries. While potentially increasing farming land availability and productivity in the short-run, this important agricultural input is controversial due to its pollution effects.  However, due to the traditional lack of reliable fire data in developing countries, there is a paucity of evidence on the net impact of fires on health and on the tradeoff between its pollution effects and the expected output gains. Identifying this tradeoff is also challenging because fires are manmade and motivated by future agricultural gains. Using high-frequency and high-resolution fire and weather data from NASA satellites, combined with monthly hospitalization data, I use wind variation on the day of fire to identify the pollution impacts of fires in Madagascar, where fire is extensively used to clear forests and pastures annually. Focusing on birth outcomes and respiratory diseases, I find that increases in upwind fires lead to smaller birth cohort size, increased risk of stillbirths and a higher number of hospitalizations related to respiratory and eye infections. Effects are stronger and more persistent among children and infants. On the other hand, I find that non-upwind fires predict better health. Next, I use the rollout of creation of new parks as a result of an international conservation movement, and an IV approach to identify the impact of fires on agricultural production and yield. I find that impacts are heterogeneous based on the nature of the fire, types of crops and distinction between shorter-run and longer-run. Contemporaneous and recent fires tend to be harmful to crops whereas previous years' fires are associated with more land cropped and higher yields however the magnitudes of the effects are relatively small. I also see some evidence of shifting production towards more land-intensive crops.
+
 
 ### 08 November 2017
 
@@ -37,6 +29,14 @@ __Presenter__: Matt Woerman
 
 ------------
 ## Fall 2017
+
+### 27 September 2017
+
+__Presenter__: Philipp Massier (with Benjamin J. Lutz and Kathrine von Graevenitz)
+<br>__Title__: Prices as Climate Policy: Assessing the Causal Effect of Electricity Prices on German Manufacturing Plants
+<br>__Abstract__: Climate policies often result in higher electricity prices through the internalization of external costs. We shed light on how plants in the German manufacturing sector react to such electricity price changes. Little is known about the causal impact of electricity prices on individual plant performance as electricity prices are typically endogenous. We match official production census data on the German manufacturing sector with data on individual electricity prices and grid charges for the first time. While the data is very detailed and contains a lot of spatial variation, assignment of an individual electricity tariff to a plant cannot be observed. However, the grid operator is observed through the plant's location. Thus, electricity demand elasticities are identified based on panel IV regressions using the arguably exogenous regulated grid charges as an instrument to correct for potential measurement error and endogeneity in electricity prices. Grid charges in Germany are not based on congestion pricing like in some US electricity markets. They are determined based on incentive regulation of the grid operator.
+ 
+Our main estimates show an electricity own price elasticity of -1.5. With the help of subsample analyses we can show that there is heterogeneity in the different manufacturing industries. Further, we find no contemporaneous effects on investments, revenues or employment. There is some suggestive evidence that plants respond to rising electricity prices by increasing their own electricity generation. By doing so, they can avoid many of the levies charged in Germany, e.g. the renewable energy surcharge or grid charges. These charges are mainly motivated in covering the costs of the renewable energy expansion and grid operations. However, to the extent that these charges are also intended to induce energy efficiency such avoidance behavior is detrimental to the efficacy of the regulation.
 
 ### 13 September 2017
 
