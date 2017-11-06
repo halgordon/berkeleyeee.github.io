@@ -2,33 +2,29 @@
 
 ## Fall 2017 schedule
 
-### 25 October 2017
-
-<img src = "http://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12986-1414090986.jpg?itok=MqtQMGGL" width = "200" hspace = "20" alt = "Danamona">
-
-__Presenter__: Danamona Andrianarimanana
-<br>__Title__: Evaluating the tradeoff between the health and wealth effects of agricultural fires in Madagascar
-<br>__Abstract__: 
- Fire is regularly used in agriculture globally and especially in developing countries. While potentially increasing farming land availability and productivity in the short-run, this important agricultural input is controversial due to its pollution effects.  However, due to the traditional lack of reliable fire data in developing countries, there is a paucity of evidence on the net impact of fires on health and on the tradeoff between its pollution effects and the expected output gains. Identifying this tradeoff is also challenging because fires are manmade and motivated by future agricultural gains. Using high-frequency and high-resolution fire and weather data from NASA satellites, combined with monthly hospitalization data, I use wind variation on the day of fire to identify the pollution impacts of fires in Madagascar, where fire is extensively used to clear forests and pastures annually. Focusing on birth outcomes and respiratory diseases, I find that increases in upwind fires lead to smaller birth cohort size, increased risk of stillbirths and a higher number of hospitalizations related to respiratory and eye infections. Effects are stronger and more persistent among children and infants. On the other hand, I find that non-upwind fires predict better health. Next, I use the rollout of creation of new parks as a result of an international conservation movement, and an IV approach to identify the impact of fires on agricultural production and yield. I find that impacts are heterogeneous based on the nature of the fire, types of crops and distinction between shorter-run and longer-run. Contemporaneous and recent fires tend to be harmful to crops whereas previous years' fires are associated with more land cropped and higher yields however the magnitudes of the effects are relatively small. I also see some evidence of shifting production towards more land-intensive crops.
-
-
 ### 08 November 2017
 
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-12706-1414091315.jpg" width = "200" hspace = "20" alt = "Ed">
-<img src = "https://are.berkeley.edu/sites/default/files/styles/user_big_picture/public/pictures/picture-13025-1414093071.jpg" width = "200" hspace = "20" alt = "Matt">
+<img src = "https://are.berkeley.edu/sites/are.berkeley.edu/files/styles/user_big_picture/public/pictures/picture-13002-1505863195.jpg" width = "200" hspace = "20" alt = "Ed">
 
-__Presenter__: Ed Rubin
-<br>__Title__: TBA
-<br>__Abstract__: TBA
 
-__Presenter__: Matt Woerman
-<br>__Title__: TBA
-<br>__Abstract__: TBA
+__Presenter__: James Gillan
+<br>__Title__: Dynamic Pricing, Attention, and Automation: Evidence from a Field Experiment in Electricity Consumption
+<br>__Abstract__: In any situation where marginal cost varies over time, neoclassical models suggest transmitting dynamic prices to buyers increases economic efficiency by aligning prices with costs. Determining the actual efficiency of dynamic pricing relies on understanding whether consumers are completely attentive to marginal incentives. I use a field experiment to positively assess the impact dynamic pricing has on residential electricity consumption and find strong evidence of attention frictions. I then develop a model to provide a normative interpretation of the results which suggests the benefits of dynamic pricing may be substantively undermined by information costs. Automation holds the promise of reducing these costs, but must achieve the nontrivial task of accurately reflecting consumer preferences. I report three primary findings. First, households---both with and without automation---significantly respond to a short term price increase by reducing consumption. Second, responses are extremely insensitive to the size of the price change. A price increase of 31 percent causes consumption to fall by 11 percent on average, whereas a price increase of 1,875 percent causes an average reduction of 13 percent. Third, automation causes responses that are six times larger than the average effect, but does not address inattention. I interpret the results as evidence that households use simplifying heuristics when facing dynamic prices and that automation addresses choice frictions. Applying my model to the setting delivers bounds on the elasticity of demand and sheds light on the attention costs of dynamic pricing. 
+
 
 ## Past presentations
 
 ------------
 ## Fall 2017
+
+
+### 25 October 2017
+
+
+__Presenter__: Danamona Andrianarimanana
+<br>__Title__: Evaluating the tradeoff between the health and wealth effects of agricultural fires in Madagascar
+<br>__Abstract__: 
+ Fire is regularly used in agriculture globally and especially in developing countries. While potentially increasing farming land availability and productivity in the short-run, this important agricultural input is controversial due to its pollution effects.  However, due to the traditional lack of reliable fire data in developing countries, there is a paucity of evidence on the net impact of fires on health and on the tradeoff between its pollution effects and the expected output gains. Identifying this tradeoff is also challenging because fires are manmade and motivated by future agricultural gains. Using high-frequency and high-resolution fire and weather data from NASA satellites, combined with monthly hospitalization data, I use wind variation on the day of fire to identify the pollution impacts of fires in Madagascar, where fire is extensively used to clear forests and pastures annually. Focusing on birth outcomes and respiratory diseases, I find that increases in upwind fires lead to smaller birth cohort size, increased risk of stillbirths and a higher number of hospitalizations related to respiratory and eye infections. Effects are stronger and more persistent among children and infants. On the other hand, I find that non-upwind fires predict better health. Next, I use the rollout of creation of new parks as a result of an international conservation movement, and an IV approach to identify the impact of fires on agricultural production and yield. I find that impacts are heterogeneous based on the nature of the fire, types of crops and distinction between shorter-run and longer-run. Contemporaneous and recent fires tend to be harmful to crops whereas previous years' fires are associated with more land cropped and higher yields however the magnitudes of the effects are relatively small. I also see some evidence of shifting production towards more land-intensive crops.
 
 ### 27 September 2017
 
